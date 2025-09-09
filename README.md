@@ -7,7 +7,7 @@ Esta atividade foi desenvolvida como parte das práticas da disciplina de **Dese
 
 Você pode visualizar o projeto funcionando através do link abaixo:
 
-👉 [Clique aqui para acessar o site](https://pedroneto-ops.github.io/Atividade1-WEB/)
+👉 [Clique aqui para acessar o site](https://pedroneto-ops.github.io/Atividade9-WEB/)
 
 
 ## 🛠 Tecnologia Utilizada
